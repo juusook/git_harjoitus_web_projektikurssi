@@ -10,3 +10,5 @@
 1259 git add notes.md
 1260 git commit -m 'Lisätty git-komennot notes.md tiedostoon'
 1261 git push
+
+Tämä on muutos tiedostoon!
