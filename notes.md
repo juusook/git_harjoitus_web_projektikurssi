@@ -7,3 +7,6 @@
 1254 git push -u origin main
 1255 git remote -v
 1257 git add notes.md\ngit commit -m "Add git command history"\ngit push
+1259 git add notes.md
+1260 git commit -m 'Lisätty git-komennot notes.md tiedostoon'
+1261 git push
